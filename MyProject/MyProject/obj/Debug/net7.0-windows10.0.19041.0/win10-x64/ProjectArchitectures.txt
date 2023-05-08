@@ -1,0 +1,1 @@
+D:\gorsel progrmalama\MyProject\MyProject\MyProject.csproj;x64

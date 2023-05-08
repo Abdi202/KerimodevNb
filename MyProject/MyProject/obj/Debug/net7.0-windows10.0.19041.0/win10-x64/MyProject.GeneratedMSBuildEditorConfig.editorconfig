@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyProject
+build_property.ProjectDir = D:\gorsel progrmalama\MyProject\MyProject\
+
+[D:/gorsel progrmalama/MyProject/MyProject/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/EklePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.EklePage.xaml
+build_metadata.AdditionalFiles.TargetPath = EklePage.xaml
+build_metadata.AdditionalFiles.RelativePath = EklePage.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/Kredi Hesaplama.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.Kredi Hesaplama.xaml
+build_metadata.AdditionalFiles.TargetPath = Kredi Hesaplama.xaml
+build_metadata.AdditionalFiles.RelativePath = Kredi Hesaplama.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/Renk Secici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.Renk Secici.xaml
+build_metadata.AdditionalFiles.TargetPath = Renk Secici.xaml
+build_metadata.AdditionalFiles.RelativePath = Renk Secici.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/Vucut Kitle Indeksi.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.Vucut Kitle Indeksi.xaml
+build_metadata.AdditionalFiles.TargetPath = Vucut Kitle Indeksi.xaml
+build_metadata.AdditionalFiles.RelativePath = Vucut Kitle Indeksi.xaml
+
+[D:/gorsel progrmalama/MyProject/MyProject/Yapilacaklar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyProject.Yapilacaklar.xaml
+build_metadata.AdditionalFiles.TargetPath = Yapilacaklar.xaml
+build_metadata.AdditionalFiles.RelativePath = Yapilacaklar.xaml
